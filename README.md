@@ -1,10 +1,11 @@
-#Spotify Clustering with Unsupervised Machine Learning
-## Catherine Wang 
-## Phillip Carver 
-## Hoanganh Taylor Nguyen  
-## Nisha Davankar 
+# Spotify Clustering with Unsupervised Machine Learning
+## Catherine Wang, Phillip Carver, Hoanganh Taylor Nguyen, Nisha Davankar 
 
-Spotify playlists in increasing cluster size:
+This project is about using unsupervised machine learning techniques to create similar playlist clusters of Spotify songs. This shows 
+the power of dimension reduction and clustering such as principal component analysis, k means, and mixture of gaussians. Run all the 
+cells in order with your own client ID and client secret ID and you will be good to go. Questions can be directed to any of us!
+
+## Spotify playlists in increasing cluster size:
 - K-means 
     - without PCA
         - https://open.spotify.com/playlist/2SfSJCoKXCWLT6EzKCJYcb
@@ -35,8 +36,4 @@ Spotify playlists in increasing cluster size:
         - https://open.spotify.com/playlist/6SYcPc2bnqnvl75rm2xqDM
         - https://open.spotify.com/playlist/6Cm8aUMP38pABvmRCYT4UB
         - https://open.spotify.com/playlist/6gxEnT7EkN41jiwna71PPv
-  
-This project is about using unsupervised machine learning techniques to create similar playlist clusters of Spotify songs. This shows 
-the power of dimension reduction and clustering such as principal component analysis, k means, and mixture of gaussians. Run all the 
-cells in order with your own client ID and client secret ID and you will be good to go. Questions can be directed to any of us!
-
+ 
